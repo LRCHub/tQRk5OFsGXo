@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Andromeda",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-18T02:28:47.606569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Andromeda (ZHU Remix)",
+      "artist": "Gorillaz feat. DRAM",
+      "has_synced": false,
+      "path": "select/01_Andromeda_(ZHU_Remix)_Gorillaz_feat._DRAM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Andromeda Strain",
+      "artist": "Nocturnus",
+      "has_synced": true,
+      "path": "select/02_Andromeda_Strain_Nocturnus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Andromeda",
+      "artist": "Ensiferum",
+      "has_synced": false,
+      "path": "select/03_Andromeda_Ensiferum.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Andromeda",
+      "artist": "Weyes Blood",
+      "has_synced": true,
+      "path": "select/04_Andromeda_Weyes_Blood.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Andromeda",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/05_Andromeda_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Andromeda",
+      "artist": "Ghostemane",
+      "has_synced": true,
+      "path": "select/06_Andromeda_Ghostemane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Farewell Andromeda (Welcome to My Morning)",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/07_Farewell_Andromeda_(Welcome_to_My_Morning)_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Farewell Andromeda (Welcome to My Morning)",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/08_Farewell_Andromeda_(Welcome_to_My_Morning)_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever Hurtling Towards Andromeda",
+      "artist": "Norma Jean",
+      "has_synced": true,
+      "path": "select/09_Forever_Hurtling_Towards_Andromeda_Norma_Jean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Farewell Andromeda",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/10_Farewell_Andromeda_John_Denver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Andromeda",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Andromeda_星街すいせい.txt"
+    }
+  ]
+}
